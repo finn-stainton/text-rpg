@@ -1,0 +1,80 @@
+Welcome Player 1
+
+Player 1 is wearing Shiny Armour
+Health: 100 Confidence: 50 Wielding: FistsOfFury
+You are alone in a cold room. It is very silent...
+?>describe
+You are alone in a cold room. It is very silent...
+There is Jewel on the floor.
+There is 2 doors.
+?>pickup jewel
+Player 1 picks up the shiny jewel
+?>stats
+
+Player 1 is wearing Shiny Armour
+Health: 100 Confidence: 50 Wielding: FistsOfFury
+Brave Player 1 is carrying the following items: Jewel,
+?>admire jewel
+Player 1 admires the shiny jewel and their confidence increases by 13.
+?>stats
+
+Player 1 is wearing Shiny Armour
+Health: 100 Confidence: 63 Wielding: FistsOfFury
+Brave Player 1 is carrying the following items: Jewel,
+?>admire jewel
+the shiny jewel already admired.
+?>door 2
+Player 1 bravely opens door 2
+You are in a massive room
+A Zombie draws hither! 
+Player 1 wields FistsOfFury and is ready for battle!
+?>attack
+Player 1 attacks Slow moving zombie
+The Slow moving zombie sustains 32 damage
+Brave Player 1 has defeated the Slow moving zombie!
+?>pickup key
+Player 1 picks up Small key
+?>door 1
+Player 1 bravely opens door 1
+The ceiling is low in this room and it feels warm.
+A Ogre draws hither! 
+Player 1 wields FistsOfFury and is ready for battle!
+?>attack
+Player 1 attacks Mad ogre
+The Mad ogre sustains 32 damage
+The Ogre attacks!
+Player 1 has sustained 21 damage!
+
+Player 1 is wearing Shiny Armour
+Health: 79 Confidence: 53 Wielding: FistsOfFury
+?>attack
+Player 1 attacks Mad ogre
+The Mad ogre sustains 30 damage
+Brave Player 1 has defeated the Mad ogre!
+?>door 2
+Player 1 bravely opens door 2
+The room is dark.
+?>open chest key
+Don't have a treasure or warchest in Inventory.
+?>pickup trechest
+Unknown Item.
+?>pickup treasurechest
+Player 1 picks up Treasure Chest
+?>open chest key
+Brave Player 1 opens Treasure Chest with a Small key and finds A bag of money
+?>stats
+
+Player 1 is wearing Shiny Armour
+Health: 79 Confidence: 53 Wielding: FistsOfFury
+Brave Player 1 is carrying the following items: Jewel,MoneyBag,
+?>pickup treasurechest
+Can't find treasurechest
+?>exit
+Player 1 searched everywhere for the exit...
+...and behold, found it.
+Well done brave Player 1. 
+Your quest has now ended.
+
+
+Finn Stainton (17982742)		Assignment Three
+

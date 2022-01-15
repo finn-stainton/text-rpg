@@ -1,0 +1,60 @@
+@numberofrooms 
+5
+@description
+You are alone in a cold room. It is very silent...
+@startroom
+@connect
+2
+@numberofpickups
+1
+Jewel 13
+@roomend
+@description
+This room has four walls
+@connect
+1 3 5
+@monster
+Zombie 90
+@numberofpickups
+4
+GoldBars 4
+RoastBoar 25
+Lockpick
+Sword
+@roomend
+@description
+The ceiling is low in this room and it feels warm.
+@connect
+2 5
+@monster
+Ogre 91
+@numberofpickups
+4
+Mobile 39
+Mead 25
+Axe
+Chalice 35
+@roomend
+@description
+You are in a massive room
+@connect
+3 4 2
+@monster
+Zombie 80
+@numberofpickups
+3
+Key
+Ring 13
+Bread 45
+@roomend
+@description
+The room is dark.
+@connect
+1 2
+@monster
+Dragon 100
+@numberofpickups
+1
+TreasureChest with MoneyBag 355
+@endquest
+@roomend
